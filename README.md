@@ -11,8 +11,7 @@ Firefly es una interfaz web ligera para interactuar con modelos de lenguaje gran
 
 1. Clona este repositorio:
    ```sh
-   git clone <URL_DE_TU_REPOSITORIO>
-   cd <nombre_del_directorio>
+   git clone https://github.com/16erik18/llm
    ```
 2. Modifica los archivos según tus necesidades (por ejemplo, el `Dockerfile` o scripts).
 
